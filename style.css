@@ -1,0 +1,41 @@
+body {
+    background-color: #0F1B2A;
+    color: #F0F0F0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#topo {
+    background-color: #1B2B3F;
+    padding: 40px;
+}
+
+h1 {
+    color: #7e3030;
+    font-size: 42px;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+    color: #7e3030;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+
+.secao {
+    background-color: #1B2B3F;
+    padding: 30px;
+    
+}
+table, th, td {
+    border: 1px solid;
+}
+
+a {
+    color: #7e3030;
+    font-weight: bold;
+}
+table {
+    margin: auto;
+}
